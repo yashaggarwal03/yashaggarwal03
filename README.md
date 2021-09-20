@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Aggarwal</h1>
+<h3 align="center">A self-taught programmer and born at very little age😜</h3>
 
-<!--
-**yashaggarwal03/yashaggarwal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React Native**
+- ⚡ Fun fact **I love to play Badminton and Cricket.**
 
-Here are some ideas to get you started:
+👔[linekdin](https://www.linkedin.com/in/yash-aggarwal-4a1a46217/) | 📧 [mail](mailto:yash.agg2000@gmail.com) | ![](https://komarev.com/ghpvc/?username=yash-aggarwal-ap&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-aggarwal-ap&theme=dark" /></br>
+![Yash Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=yash-aggarwal-ap&show_icons=true&theme=radical&count_private=true)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-aggarwal-ap&theme=radical)](https://github.com/yash-aggarwal-ap/github-readme-stats)
