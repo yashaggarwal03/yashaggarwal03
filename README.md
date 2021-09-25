@@ -6,6 +6,7 @@
 
 👔[linekdin](https://www.linkedin.com/in/yash-aggarwal-4a1a46217/) | 📧 [mail](mailto:yash.agg2000@gmail.com) | ![](https://komarev.com/ghpvc/?username=yashaggarwal03&color=blue)
 
+---
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaggarwal03&theme=dark" /></br>
 ![Yash Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=yashaggarwal03&show_icons=true&theme=radical&count_private=true)</br>
