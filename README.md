@@ -12,6 +12,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaggarwal03&theme=dark" /></br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaggarwal03&theme=dark" /></br>
 ![Yash Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=yashaggarwal03&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashaggarwal03&theme=radical)](https://github.com/yashaggarwal03/github-readme-stats)
