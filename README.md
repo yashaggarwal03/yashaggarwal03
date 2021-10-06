@@ -12,6 +12,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaggarwal03&theme=dark" /></br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashaggarwal03&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D&dates=FFEDF3&currStreakNum=21DDBE&sideNums=23DEDE&sideLabels=22F3F3)](https://git.io/streak-stats)</br>
 ![Yash Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=yashaggarwal03&show_icons=true&theme=radical&count_private=true)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashaggarwal03&theme=radical)](https://github.com/yashaggarwal03/github-readme-stats)
