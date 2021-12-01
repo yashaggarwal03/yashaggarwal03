@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React Native**
 - ⚡ Fun fact **I love to play Badminton and Cricket.**
 
-👔[linekdin](https://www.linkedin.com/in/yash-aggarwal-4a1a46217/) | 📧 [mail](mailto:yash.agg2000@gmail.com) | ![](https://komarev.com/ghpvc/?username=yashaggarwal03&color=blue)
+👔[linekdin](https://www.linkedin.com/in/yashaggarwal03/) | 📧 [mail](mailto:yash.agg2000@gmail.com) | ![](https://komarev.com/ghpvc/?username=yashaggarwal03&color=blue)
 
 ---
 <h3 align="left">Languages and Tools:</h3>
